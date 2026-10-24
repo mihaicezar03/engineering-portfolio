@@ -38,10 +38,6 @@ A collection of 3D modelling, mechanical design, and assembly projects developed
 
   [View SolidWorks Project](https://github.com/mihaicezar03/solidworks-robotic-arm)
 
-  ## CATIA / DELMIA — Digital Production Process Simulation
-
-  [View CATIA Simulation](https://github.com/mihaicezar03/catia-production-simulation)
-
 ### 3. PLC Programming & Industrial Automation — TIA Portal / Factory I/O
 
 Industrial automation projects involving PLC programming and simulation of automated processes.
@@ -67,7 +63,9 @@ Industrial automation projects involving PLC programming and simulation of autom
 
 Additional technical projects, simulations, programming exercises, and engineering coursework.
 
-**[View Projects — Coming Soon]**
+  ### CATIA / DELMIA — Digital Production Process Simulation
+
+  [View CATIA Simulation](https://github.com/mihaicezar03/catia-production-simulation)
 
 ---
 
