@@ -47,7 +47,19 @@ Industrial automation projects involving PLC programming and simulation of autom
 - Factory I/O simulation projects
 - PLC logic screenshots
 - Demonstration videos and technical explanations
+  ### TIA Portal & Factory I/O — Industrial Automation Simulation
 
+  A university project combining Siemens TIA Portal PLC
+  engineering with a Factory I/O virtual production line.
+
+  The simulation includes conveyor systems, transfer operations,
+  sensors, actuators, and operator control signals.
+
+  **Technologies:** Siemens TIA Portal V19, Factory I/O,
+  PLC Programming, Industrial Automation
+
+  [View TIA Portal & Factory I/O Project](https://github.com/mihaicezar03/tia-portal-factory-io)
+ 
   ### Industrial HMI Dashboard — IIOR University Project
 
   A browser-based Human–Machine Interface prototype
