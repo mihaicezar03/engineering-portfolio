@@ -52,7 +52,16 @@ Industrial automation projects involving PLC programming and simulation of autom
 - PLC logic screenshots
 - Demonstration videos and technical explanations
 
-**[View Projects — Coming Soon]**
+### Industrial HMI Dashboard — IIOR University Project
+
+A browser-based Human–Machine Interface prototype
+featuring role-specific dashboards for production
+operations, process engineering, quality control,
+maintenance, and management.
+
+**Technologies:** HTML, CSS, JavaScript, HMI Design
+
+[View HMI Project](https://github.com/mihaicezar03/iior-hmi-dashboard)
 
 ### 4. Engineering Simulations & Other University Projects
 
