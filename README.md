@@ -22,7 +22,7 @@ A robotic arm project developed as part of my bachelor's degree, demonstrating t
 - System design and technical documentation
 - Images of the completed project
 
-**[View Project — Coming Soon]**
+**[View Project on GitHub](https://github.com/mihaicezar03/robotic-arm-tic-tac-toe)**
 
 ### 2. CAD & Mechanical Design — CATIA / SolidWorks
 
