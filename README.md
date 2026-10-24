@@ -34,7 +34,13 @@ A collection of 3D modelling, mechanical design, and assembly projects developed
 - Rendered images
 - Design explanations
 
-**[View SolidWorks Robotic Arm Project](https://github.com/mihaicezar03/solidworks-robotic-arm)**
+**### SolidWorks — Robotic Arm Modeling and Assembly
+
+[View SolidWorks Project](https://github.com/mihaicezar03/solidworks-robotic-arm)
+
+### CATIA / DELMIA — Digital Production Process Simulation
+
+[View CATIA Simulation](https://github.com/mihaicezar03/catia-production-simulation)**
 
 ### 3. PLC Programming & Industrial Automation — TIA Portal / Factory I/O
 
